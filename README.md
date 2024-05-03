@@ -1,1 +1,1 @@
-## Device config for TWRP Itel RS 4 ( Itel-S666LN )
+## Device config PBRP for Itel RS 4 ( Itel-S666LN )
